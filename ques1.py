@@ -18,3 +18,15 @@ def max_profit(prices):
         right += 1
     return max_profit
 print(max_profit(prices))
+
+# output :
+Input:
+5  
+7  
+1  
+5  
+3  
+6  
+
+Output:
+5
